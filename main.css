@@ -1,5 +1,11 @@
 .mainheader {
   background-color: #ea5169;
   font: black;
+  position: relative;
+  text-align: center;
+}
+
+.watermelonheader {
+  padding-left: 0%;
   width: 100%;
 }
