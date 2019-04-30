@@ -3,9 +3,11 @@
   font: black;
   position: relative;
   text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
 }
 
 .watermelonheader {
-  padding-left: 0%;
+  padding-left: 43%;
   width: 100%;
 }
