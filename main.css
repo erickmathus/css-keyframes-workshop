@@ -16,3 +16,10 @@
   font-family: sans-serif;
   font-size: 25px;
 }
+.gallery img{
+  display: inline-grid;
+  width: 25%;
+  padding-left: 5%;
+  padding-right: 1%;
+  height: 400px;
+}
